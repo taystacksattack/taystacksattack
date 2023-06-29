@@ -12,6 +12,14 @@
 src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" /><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><img src="https://img.shields.io/badge/Sqlalchemy-000000?style=for-the-badge&logo=Sqlalchemy&logoColor=white" /><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><img 
 src="https://img.shields.io/badge/Sequelize-316192?style=for-the-badge&logo=Sequelize&logoColor=white" /><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /><img src="https://img.shields.io/badge/mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=Render&logoColor=white" />
 
+
+### My stats:
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=taystacksattack&theme=dark&background=000000" alt="tay-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taystacksattack&layout=compact&theme=vision-friendly-dark" alt="tay-stats"/>  
+</div>
+<br></br>  
+
 If you're looking here, you've probably already found me elsewhere on the internet, but hey, give the people what they want. Content. If you haven't though, feel free to connect on Linkedin (see the badge up top). Currently, looking for work, so if you need a guy, I know a guy! 
 <!--
 **taystacksattack/taystacksattack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
