@@ -5,7 +5,7 @@
   </a>
 </div>
 
-### My background is actually in ecology and policy. I became interested in coding while writing R for GIS, mapping policy data and parameters over geographical ranges. I am particular interested in any applications which help folks navigate complex amounts of information or support the public sector. 
+### My background is actually in ecology and policy. I became interested in coding while writing R for GIS, mapping policy data and parameters over geographical ranges. I am particularly interested in any applications which help folks navigate complex amounts of information or support the public sector. 
 #### I am particularly proud of my soilmates project, which you can check out [here](https://github.com/taystacksattack/SoilMates). 
 #### Just finished up the full-stack web development program at App Academy. My skills currently include:
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img
